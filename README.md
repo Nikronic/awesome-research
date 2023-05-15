@@ -27,3 +27,8 @@ Yet another awesome list, but with assumption of being clueless yet smart (actua
 | ----- | ------ | ------ | ---- | 
 | Intro to Physics-Based Animation | Bargteil and Shinar | 3 | [PDF](http://www.cs.ucr.edu/~shinar/papers/2018_introduction_to_pba.pdf), [Video](https://www.youtube.com/watch?v=b_WJ-HwalwU) |
 
+
+## Resources For Planning the Timeline
+| Website | Score | Desc |
+| ------- | ----- | ---- |
+| [gradbunker.com](https://gradbunker.com/what-is-the-optimum-timeline-for-grad-school-application/) | 5+ | PLEASE FOLLOW, awesome |
