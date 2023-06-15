@@ -32,3 +32,4 @@ Yet another awesome list, but with assumption of being clueless yet smart (actua
 | Website | Score | Desc |
 | ------- | ----- | ---- |
 | [gradbunker.com](https://gradbunker.com/what-is-the-optimum-timeline-for-grad-school-application/) | 5+ | PLEASE FOLLOW, awesome |
+| [Github/womanreading7](https://github.com/womanreading7/PhD-Application-Guide) | 5 (not read thoroughly | detailed and cool |
