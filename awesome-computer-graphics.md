@@ -20,6 +20,8 @@ Yet another awesome list, but with assumption of being clueless yet smart (actua
 | Title | Instructor | Rating | Link |
 | ----- | ---------- | ------ | ---- | 
 | Physics-Based Animation YouTube course | David Levin | 3 | [Youtube](https://www.youtube.com/playlist?list=PLTkE7n2CwG_PH09_q0Q7ttjqE2F9yGeM3) |
+| Aalto University - CS-C3100 Computer Graphics (Fall 2018) | Jaakko Lehtinen | 2 | [Uni page - no video hq slides](https://mycourses.aalto.fi/course/view.php?id=20559) 
+| Aalto University - CS-E5520 Advanced Computer Graphics (Spring 2019) | Jaakko Lehtinen | 2 | [Uni page - no video hq slides](https://mycourses.aalto.fi/course/view.php?id=20635) 
 
 
 ## Article
