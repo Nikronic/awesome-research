@@ -18,6 +18,12 @@ Awesome list of any content that could be deemed useful for any sort of research
 | [Github/womanreading7](https://github.com/womanreading7/PhD-Application-Guide) | 5 (not read thoroughly) | detailed and cool |
 
 ## Good To Know
-| Website | Score | Desc |
-| ------- | ----- | ---- |
-| ["Do grades matter"? Kayvon Fatahalian](http://graphics.stanford.edu/~kayvonf/misc/do_grades_matter.pdf) | 5+ | An explanation on what actually grade means |
+| Website                                                                                                  | Score | Desc                                        |
+| -------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------- |
+| ["Do grades matter"? Kayvon Fatahalian](http://graphics.stanford.edu/~kayvonf/misc/do_grades_matter.pdf) | 5+    | An explanation on what actually grade means |
+
+## General Blogs
+
+| Website                                                                                          | Score | Desc                                                                        |
+| ------------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------------------- |
+| [Dr Veronika CH's blog](https://web.archive.org/web/20231211120753/https://veronikach.com/blog/) | 4     | Blogs from a normal person about simple but important things as an academic |
