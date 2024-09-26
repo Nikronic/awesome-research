@@ -22,7 +22,7 @@ Short version if you don't have any experience in the ballpark of the PI's inter
 
 1. Be personal/specific. DO NOT send the same email to every faculty member in a department.
 2. It's appropriate to ask if someone thinks they will take on new students, but know that you might not always get a satisfying answer to this. This question is good paired with a request to be pointed to other faculty if appropriate.
-3. Don't demand for meetings. I think it's good to open up an obvious possibility for having a meeting, without directly asking for one. Someone who is actively recruiting students might be eager to talk.
+3. Don't demand for meetings. I think it's good to open up an obvious possibility for having a meeting, without directly asking for one. Someone who is actively recruiting students might be eager to talk. ^61e40f
 
 Additional details:
 - Check for the current funding to figure out the *current research interests*.
