@@ -9,6 +9,17 @@ As a first and the only reminder:
 >Look forward to hearing from you.
 >*signature*
 
+Another sample[^1]:
+>[!example] 
+>Dear Prof. XYZ, 
+>
+>This is a kind reminder of the above email. 
+>
+>I would like to reiterate my intention of working with you as your research interests greatly align with my experience. 
+>
+>Thanks as I look forward to your reply. 
+>Kind regards.
+
 ## Positive Response
 
 1. Don’t make them wait for too long: You should ideally respond to them within the same day.
@@ -39,3 +50,5 @@ As a first and the only reminder:
 Ref: 
 1. https://web.archive.org/web/20220806180037/https://twitter.com/sjay_yayy/status/1431654767739035653
 2. https://web.archive.org/web/20220731183126/https://twitter.com/sjay_yayy/status/1436031455474294786
+
+[^1]: https://x.com/Oludeewon/status/1288080026022416384

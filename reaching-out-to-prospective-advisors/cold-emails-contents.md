@@ -17,6 +17,7 @@ Your email should contain the following four elements:
 4. Highlight the key points by making it italic/bold
 5. For undergrad students, your ***email is a writing sample***. ZERO errors, clear and structured
 6. Sign off with *"sincerely"*, name, your contact info
+7. If you can attach your CV and Test Scores as a link, it will be better. This will reduce storage space.[^1]
 
 My notes:
 1. make sure to read the PI's website for email instruction (note that if they have a special email title and you don't follow, they will never see your email)
@@ -29,3 +30,5 @@ My notes:
 Ref:
 1. https://x.com/jbhuang0604/status/1420611683035324425
 2. https://x.com/hgupta84/status/1437081893254701056
+
+[^1]: https://x.com/Oludeewon/status/1284873022118211584
