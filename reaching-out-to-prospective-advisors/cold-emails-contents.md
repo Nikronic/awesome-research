@@ -22,6 +22,7 @@ My notes:
 1. make sure to read the PI's website for email instruction (note that if they have a special email title and you don't follow, they will never see your email)
 2. make sure to check for the cultural way of writing names; do not use first name instead of last name (some unis write last-first, and if you are not familiar with the culture, you might use the first name)
 3. if necessary, put your starting date (fall, summer, etc) in the intro or in the subject
+4. schedule emails to reach at 08:00-ish (PI's time zone obviously)
 
 
 
