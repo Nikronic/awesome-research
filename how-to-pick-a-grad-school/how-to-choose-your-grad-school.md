@@ -1,3 +1,4 @@
+# How to Choose Your Grad School
 By [Tim Dettmers](https://timdettmers.com/author/tim-dettmers/)
 
 Ref: https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/ ^750fdb

@@ -103,7 +103,7 @@ Many PIs usually have a very general notion of progress.
 PIs like it when you track them down and insist that you need to talk. It is better to get unstuck now than see failure later on (failure \== not progressing)
 
 ### Most important quality for success in graduate school
-Please see [[Quality for Success in Graduate School]].
+Please see [[quality-for-success-in-graduate-school]].
 
 - [ ] I have [[Handbook_on_Time_Management_Skills.pdf]] but don't know if it s good. ([ref](https://www.dso.ufl.edu/documents/nsfp/Handbook_on_Time_Management_Skills.pdf))
 ### Love doing research
