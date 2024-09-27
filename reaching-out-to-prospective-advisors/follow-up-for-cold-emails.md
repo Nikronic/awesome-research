@@ -40,7 +40,7 @@ Another sample[^1]:
 3. In case the subsequent emails, ***ask them if they can connect you with any of the existing grad*** students: If they suggest you a set of students, you can ask them application tips that helped them get in. They can tell you the inside secrets of the lab/department and so on.
 4. If they get ready for a video call: Try to ***fix the meeting*** within the next 1-2 weeks according to their time zone. And ask them if the times you proposed are convenient for them. Let them choose the time slots. Also, you should ***offer them to set up a meeting link*** so that you don’t burden the prof with additional tasks.
 >[!success]
->Minimalize administrative tasks that a supervisors needs to do. Make your interactions in a way that they *point*, you *pave the way*.
+>Minimalize administrative tasks that a supervisors needs to do. Make your interactions in a way that they *point*, you *pave the way*. ^4dd386
 5. Finally, after applying through the application form of the university, ***inform them that you have submitted your application*** and ***thank them*** for their support throughout your application process.
 >[!example]
 >I am writing to bring to your kind notice that I have completed my application for the PhD program in Mass Communications at the SJMC. I have elaborated some of the research directions we discussed over the skype call in my SOP.

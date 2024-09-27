@@ -27,8 +27,15 @@ How do I find professors who match my interests?
 - Repeat till I have found 15-20 professors.
 
 This is the most methodical, easiest and genuine way of finding labs that you naturally incline towards!
+
+>[!note]
+>I think it makes sense to add the following step too: ***Check if the PI has a website***. 
+>
+>Professors who don’t have web pages about their research are either not interested in recruiting students, not doing any research, or so famous they probably have someone to filter their email for them.[^1]
   
 For every research position I have won, it was because of this approach that I followed.  
 
 >[!success] Authenticity 
 >This helps you express genuine interest in the lab because, you emailed them after reading their work. It gives me the scope to form research directions that relate to their most recent work.
+
+[^1]: https://uvasrg.github.io/prospective/
