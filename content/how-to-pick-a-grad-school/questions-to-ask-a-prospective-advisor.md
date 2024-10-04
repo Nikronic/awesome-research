@@ -1,0 +1,3 @@
+| link                                                                                                                                   | rating | content                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------ |
+| https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/ | 5      | Advisor Style and Expectations, Student Advisor Fit, Research Fit, Projects, Obligations, Lab Culture, |
