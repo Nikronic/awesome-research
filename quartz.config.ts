@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Awesome Research",
-    pageTitleSuffix: "Anything related to doing research, researchers, and the life around it.",
+    pageTitle: "🪴 Quartz 4.0",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "null",
+      provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "nikronic.com/awesome-research",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
