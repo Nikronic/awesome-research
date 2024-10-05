@@ -5,11 +5,24 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+      Component.Comments({
+        provider: 'giscus',
+        options: {
+          // from data-repo
+          repo: 'Nikronic/awesome-research',
+          // from data-repo-id
+          repoId: 'R_kgDOI36Afg',
+          // from data-category
+          category: 'Announcements',
+          // from data-category-id
+          categoryId: 'DIC_kwDOI36Afs4CjFg2',
+        }
+      }),
+    ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Nikan Doosti": "https://nikronic.com"
     },
   }),
 }
@@ -18,7 +31,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
+    // Component.ArticleTitle(), # bring this back when you enabled FolderPage plugin (does the job of indexing pages you do manually).
     Component.ContentMeta(),
     Component.TagList(),
   ],
@@ -30,7 +43,34 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+  localGraph: {
+    drag: true, // whether to allow panning the view around
+    zoom: true, // whether to allow zooming in and out
+    depth: 2, // how many hops of notes to display
+    scale: 1.1, // default view scale
+    repelForce: 0.5, // how much nodes should repel each other
+    centerForce: 0.3, // how much force to use when trying to center the nodes
+    linkDistance: 30, // how long should the links be by default?
+    fontSize: 0.6, // what size should the node labels be?
+    opacityScale: 1, // how quickly do we fade out the labels when zooming out?
+    removeTags: [], // what tags to remove from the graph
+    showTags: true, // whether to show tags in the graph
+  },
+  globalGraph: {
+    drag: true,
+    zoom: true,
+    depth: 100,
+    scale: 0.7,
+    repelForce: 0.5,
+    centerForce: 0.3,
+    linkDistance: 30,
+    fontSize: 0.6,
+    opacityScale: 1,
+    removeTags: [], // what tags to remove from the graph
+    showTags: false, // whether to show tags in the graph
+  },
+}),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
