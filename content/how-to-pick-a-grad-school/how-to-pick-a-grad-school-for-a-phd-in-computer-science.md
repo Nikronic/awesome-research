@@ -1,9 +1,6 @@
 # How to pick a grad school for a PhD in Computer Science
 By [Vijay Chidambaram](https://vijayc.medium.com/?source=post_page-----a5ce7dceb246--------------------------------)
 
-Ref: https://vijayc.medium.com/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246
-Additional ref: https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33
-
 TODO:
 - [ ] Create a table with each metric and their importance weight
 - [ ] Create an entry for each school/supervisor that I get an interview
@@ -45,6 +42,10 @@ Consider important factors you think you care, e.g., city, group culture, etc. F
 >One way to compare is whether everyone is funded. If they are, there should be less competition over resources and they should be happier. 
 >
 >-https://x.com/sgadarian/status/969654090077794306
+
+Ref: 
+1. https://vijayc.medium.com/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246
+2. https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33
 
 
 [^1]: Ask this as one of the questions for your interview. If they like independent work and how much time they would allocate.

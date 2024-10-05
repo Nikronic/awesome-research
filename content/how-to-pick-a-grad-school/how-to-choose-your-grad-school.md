@@ -1,9 +1,6 @@
 # How to Choose Your Grad School
 By [Tim Dettmers](https://timdettmers.com/author/tim-dettmers/)
 
-Ref: https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/ ^750fdb
-Additional ref: https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33
-
 TODO:
 - [ ] add questions in this page for interview one
 - [ ] can I figure out my research style so I can combine it with the prospective advisor to see if good comes out of it? E.g., my engineering and hacking style with Julian's conceptualization and abstraction. (see [[#^f05359|research style]])
@@ -167,6 +164,10 @@ If your advisor has postdocs and senior PhDs which frequently collaborate with n
 
 >[!success]
 >Having senior PhDs and postdocs is, in particular, ***valuable if your potential advisor is hands-off*** — in this case, you can get the best of both worlds in terms of advising. (See [[#^6a5a8a|my need]] on an advisor being [[#Advising style]])
+
+Ref:
+1. https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/ ^750fdb
+2. https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33
 
 
 [^1]: I didn't summarize this section at all, as I believe every word said there needs to be repeated by me on a daily basis.

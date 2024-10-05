@@ -1,3 +1,9 @@
+---
+Title: All Suggestions Made by Soheil
+draft: True
+tags:
+  - General
+---
 # All Suggestions Made by Soheil
 
 - Date: 09/08/2024

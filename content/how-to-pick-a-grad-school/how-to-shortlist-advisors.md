@@ -1,8 +1,6 @@
 # How to Shortlist Advisors
 By [Your Grad Coach X](https://x.com/yourgradcoach)
 
-Ref: https://threadreaderapp.com/thread/1443969538631012355.html (original: https://x.com/yourgradcoach/status/1443969538631012355)
-
 ---
 ## Perspective
 There are two ways you can short list professors:    
@@ -38,5 +36,9 @@ For every research position I have won, it was because of this approach that I f
 
 >[!success] Authenticity 
 >This helps you express genuine interest in the lab because, you emailed them after reading their work. It gives me the scope to form research directions that relate to their most recent work.
+
+Ref: 
+1. https://threadreaderapp.com/thread/1443969538631012355.html (original: https://x.com/yourgradcoach/status/1443969538631012355)
+
 
 [^1]: https://uvasrg.github.io/prospective/

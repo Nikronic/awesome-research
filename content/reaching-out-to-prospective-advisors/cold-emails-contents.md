@@ -13,7 +13,7 @@ Your email should contain the following four elements:
 ## Other Points
 1. Use a proper profile picture
 2. Use your name in English for full sender name and ID
-3. Consistent format: write in a notepad and then paste without style (ctrl+shift+v)
+3. (my take) Consistent format: write in a notepad and then paste without style (ctrl+shift+v)
 4. Highlight the key points by making it italic/bold
 5. For undergrad students, your ***email is a writing sample***. ZERO errors, clear and structured
 6. Sign off with *"sincerely"*, name, your contact info
@@ -24,7 +24,6 @@ My notes:
 2. make sure to check for the cultural way of writing names; do not use first name instead of last name (some unis write last-first, and if you are not familiar with the culture, you might use the first name)
 3. if necessary, put your starting date (fall, summer, etc) in the intro or in the subject
 4. schedule emails to reach at 08:00-ish (PI's time zone obviously)
-
 
 
 Ref:

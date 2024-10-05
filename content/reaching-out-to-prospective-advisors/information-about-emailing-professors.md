@@ -1,8 +1,8 @@
 # Information about Emailing Professors
 By [Yonatan Bisk](https://talkingtorobots.com/CLAW/)
 
->[!note] 
->(By Nikan): I think this guide has been written dominantly for students in the US, or more tier-1 (globally famous groups). Specifically, almost every students finds their advisors through cold email, where going to conferences, having multiple internships or having direct contact in committees seems prevalent. This is not the case at all for non-EU, NA, East Asia countries. (I have been reading and having discussions with tone of people and almost all of them agree that you must cold email A LOT and in fact it was the only way they did it. [[a-guide-to-cold-emailing-to-everyone#^ba687d|1]])
+>[!note] (my take) Note
+>I think this guide has been written dominantly for students in the US, or more tier-1 (globally famous groups). Specifically, almost every students finds their advisors through cold email, where going to conferences, having multiple internships or having direct contact in committees seems prevalent. This is not the case at all for non-EU, NA, East Asia countries. (I have been reading and having discussions with tone of people and almost all of them agree that you must cold email A LOT and in fact it was the only way they did it. [[a-guide-to-cold-emailing-to-everyone#^ba687d|1]])
 
 ## Why you **should** email professors
 Success in academia, like many aspects of society, is often a function of who you know and networking. Students of famous professors don’t need to email because they know their applications will get read carefully. If you don’t fit this description, as many of us don’t,  
@@ -42,12 +42,9 @@ That’s 100% fine, and you should say that. You can indicate where you have tri
 >[!warning]
 >Gmail sometimes classifies student emails (particularly the fill-in-the-blank form emails) as spam.
 
-Q: why on earth they use Gmail? just use an institutional email.
-
-
 Some other cool information:
 - **Should I do master's?** It depends, but there are two factors that are potentially balancing each other out. 1. More time means ability to get better letters but 2. We compare BS to BS, and MS to MS. So is that MS really going to help or put you even further behind? You have to sort of take this on a case by case basis. If you didn't get a chance to do research in undergrad, you'll do as much research in your MS as you can and see where that puts you. That's the hand life dealt you. If you are a junior who just started research and you could graduate early or get a full year in, I'd recommend taking your time and getting those strong letters. In general, this isn't a race and nobody is going to check if you were 21 or 22 or 25 or ... when you applied. Just how you compare to other people with the same degree and opportunities.
 >[!success] 
->I always punish myself to studying master's in my home country. But now I think it was the only way I could do any sort of research. So not only I managed to publish a good research, I also secured two strong recommendation letters.
+>(my take) I always punish myself to studying master's in my home country. But now I think it was the only way I could do any sort of research. So not only I managed to publish a good research, I also secured two strong recommendation letters. ^dbcd2e
 
 Ref: https://talkingtorobots.com/FAQ.html

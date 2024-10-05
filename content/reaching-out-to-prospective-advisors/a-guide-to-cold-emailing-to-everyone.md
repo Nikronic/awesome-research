@@ -11,7 +11,7 @@ By [Eugene Vinitsky](https://www.eugenevinitsky.com/posts/coldemails/)
 
 The problem is that people stress out about cold emailing too much. ***either you'll get a response or they'll forget you ever emailed them at all.*** 
 
-> You miss every shot you don't take. --Some guy on dota2
+> You miss every shot you don't take. --I head it from some guy on [DoTA2](https://en.wikipedia.org/wiki/Dota_2) (original author is **Wayne Gretzky**)
 
 Cold email types:
 - Questions about research papers I've found interesting
@@ -28,7 +28,7 @@ $$\text{level of specificity} = \frac{1}{\text{how established you are}}$$
 What content should these emails contain?
 
 - a clear indicator that you are familiar with the work of the person you're emailing
-- some specific questions or a specific ask i.e how can the person help you and why are you asking them specifically as opposed to someone else?
+- some specific questions or a specific ask i.e. how can the person help you and why are you asking them specifically as opposed to someone else?
 - If you're not particularly senior, it's worthwhile to provide some form of credential demonstrating your actual interest in the topic. For example, a link to some code you've written indicating that you're forging ahead with or without a response. Or perhaps some research ideas you're considering that demonstrate a good understanding.
 
 >[!example]
@@ -57,8 +57,9 @@ When writing such email, maybe you haven't understood the work at all and it's *
 In other words, one of the best ways to find supportive people is to in fact fail. So, going extreme ways and being stressed about cold emails in fact can do worse than good.
 
 ![[Pasted image 20240924002213.png]]
+*fig 1: (my take) the relation between stressing out about an email and its effectiveness, considering all aspects.*
 
 >*Quick addendum*: some element of this is totally privilege. It's pretty well established that people with names like mine get better responses than people with names not like mine. I'm not sure what the solution is (outside of solving racism) and am quite interested if anyone has some good ideas here.
->
+
 
 ^050c65
