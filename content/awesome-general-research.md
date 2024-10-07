@@ -24,6 +24,7 @@ Awesome list of any content that could be deemed useful for any sort of research
 
 ## General Blogs
 
-| Website                                                                                          | Score | Desc                                                                        |
-| ------------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------------------- |
-| [Dr Veronika CH's blog](https://web.archive.org/web/20231211120753/https://veronikach.com/blog/) | 4     | Blogs from a normal person about simple but important things as an academic |
+| Website                                                                                          | Score | Desc                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Dr Veronika CH's blog](https://web.archive.org/web/20231211120753/https://veronikach.com/blog/) | 4     | Blogs from a normal person about simple but important things as an academic                                                                   |
+| [HelloPhD](https://hellophd.com/)                                                                | 5     | Everything about PhD, Podcast (discontinued but full of valuable information), and blog posts about everything that a PhD student might care. |
