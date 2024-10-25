@@ -44,7 +44,7 @@ Additional details:
 
 >[!note] (my take) My mileage on customizing the email
 >- given that I am not from a internationally respected country in science, and the universities I have attended do not show any significance (even though I practically kept myself up to date by following top unis curriculum), I must include my international professional level research in my email. This validates both my experience, and also more internationally acceptable. For Europe, particularly the institute I did research is exceptionally renowned and mentioning it could go a long way.
->- I have industry experience, which could be seen as a gap, although, has benefits too, including skills that can enable better collab with industry, long term view of the projects, users, etc. Also, inclusion of skills that are not necessarily part of job description of a research student, but could go a long way in a research intensive collaborative environment, are beneficial which is presents me as a T-shape student (see the [[candidate/aidos_group/Fitness#[T-Shaped People and Academia](https //bastian.rieck.me/blog/2022/t/)|definition of a T-shape]] student).
+>- I have industry experience, which could be seen as a gap, although, has benefits too, including skills that can enable better collab with industry, long term view of the projects, users, etc. Also, inclusion of skills that are not necessarily part of job description of a research student, but could go a long way in a research intensive collaborative environment, are beneficial which is presents me as a T-shape student (see the [[aidos-fitness#[T-Shaped People and Academia](https //bastian.rieck.me/blog/2022/t/)|definition of a T-shape]] student).
 
 
 >[!note] (my take) Some notes

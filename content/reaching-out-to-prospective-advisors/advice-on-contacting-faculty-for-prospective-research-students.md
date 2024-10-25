@@ -49,6 +49,8 @@ If you don’t get a reply ***after about a week***, send a [[awesome-research/c
 >[!success]
 >(my take) Minimalize administrative tasks that a supervisors needs to do. Make your interactions in a way that they *point*, you *pave the way*.
 
+^65a2c2
+
 ## Info from comments
 
 
