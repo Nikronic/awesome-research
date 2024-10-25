@@ -15,10 +15,13 @@ tags:
 6. [[_things-you-are-allowed-to-do-readme|Things You Are Allowed To Do]]
 7. [[_things-you-should-not-do-readme|Things You Should NOT Do]]
 8. [[_understanding-grad-admission-readme|Understanding Grad Admission]]
-9. [[awesome-research-queue-items|Awesome Research Queue]]
+9. [[_grad-interviews-readme|Grad Interviews]]
+10. [[awesome-research-queue-items|Awesome Research Queue]]
 
 >[!danger] ATTENTION
->If you don't see the phrase "my take", it has been borrowed from the author, mentioned on top of each page (literally first line). Please see the first item in [[#FAQs]]
+>If you don't see the phrase "my take", it has been borrowed from the author, mentioned on top of each page (literally first line). Please see the first item in [[#FAQs]]. 
+>To even further assure I am not "stealing" anyone's work, I have prevented this entire section from being indexed by Google.
+>>[!note] so the only way you are here because you directly came here and have read this piece of warning
 
 ## FAQs
 
