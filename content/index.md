@@ -7,16 +7,17 @@ tags:
 # Awesome Research Readme
 
 ## Content:
-1. [[_grad-interviews-readme|Grad Interviews]]
-2. [[_how-to-apply-readme|How to Apply]]
-3. [[_how-to-do-research-readme|How To Do Research]]
-4. [[_how-to-pick-a-grad-school-readme|How To Pick a Grad School]]
-5. [[_reaching-out-to-prospective-advisors-readme|Reaching Out To Prospective Advisors]]
-6. [[_things-you-are-allowed-to-do-readme|Things You Are Allowed To Do]]
-7. [[_things-you-should-not-do-readme|Things You Should NOT Do]]
-8. [[_understanding-grad-admission-readme|Understanding Grad Admission]]
-9. [[_grad-interviews-readme|Grad Interviews]]
-10. [[awesome-research-queue-items|Awesome Research Queue]]
+- [[_grad-interviews-readme|Grad Interviews]]
+- [[_how-to-apply-readme|How to Apply]]
+- [[_how-to-do-research-readme|How To Do Research]]
+- [[_how-to-get-a-job-readme|How To Get a Job]]
+- [[_how-to-pick-a-grad-school-readme|How To Pick a Grad School]]
+- [[_reaching-out-to-prospective-advisors-readme|Reaching Out To Prospective Advisors]]
+- [[_things-you-are-allowed-to-do-readme|Things You Are Allowed To Do]]
+- [[_things-you-should-not-do-readme|Things You Should NOT Do]]
+- [[_understanding-grad-admission-readme|Understanding Grad Admission]]
+- [[_grad-interviews-readme|Grad Interviews]]
+- [[awesome-research-queue-items|Awesome Research Queue]]
 
 >[!danger] ATTENTION
 >If you don't see the phrase "my take", it has been borrowed from the author, mentioned on top of each page (literally first line). Please see the first item in [[#FAQs]]. 
