@@ -16,6 +16,7 @@ tags:
 - [[_things-you-are-allowed-to-do-readme|Things You Are Allowed To Do]]
 - [[_things-you-should-not-do-readme|Things You Should NOT Do]]
 - [[_understanding-grad-admission-readme|Understanding Grad Admission]]
+- [[_statement-of-purpose-readme|Statement of Purpose]]
 - [[_grad-interviews-readme|Grad Interviews]]
 - [[awesome-research-queue-items|Awesome Research Queue]]
 
